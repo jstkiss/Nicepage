@@ -3,12 +3,10 @@
 * Étape 2 : Préparer la base de mon projet en respectant les standards de développement.
 * Étape 3 : Réaliser, via la syntaxe markdown, un README cohérent expliquant la nature de votre projet.
 * Étape 4 : crée un lien avec mon github en SSH.
-* Étape 5 : Commencer par la version mobile
-* Étape 6 : La version destop
-* Étape 7 : La version tablette
-* Étape 8 : 
-* Étape 9 : 
-* Étape 10 : 
+* Étape 5 : Commencer par la version mobile puis destop et tablette
+* Étape 6 : Mettre le dossier dans filzila en sftp
+* Étape 7 : tester la page web en ligne sur différent périphérique
+* Étape 8 : tester la page web sur gtmetrix
 
 
 lien du repository github : https://github.com/JSTKode/Nicepage
