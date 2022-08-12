@@ -11,6 +11,10 @@
 
 lien du repository github : https://github.com/JSTKode/Nicepage
 
+GTmetrix Grade : A / perf: 94% / Structure 87% /
+
+WWeb Vitals : Largest Contentful 1.5s / Total Blocking time Oms / Cumulative Layout O.
+
 Lien du site avec Filezila :
 
 * Travailler sur VSCODE
