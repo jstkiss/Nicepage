@@ -1,0 +1,153 @@
+@media (min-width: 425px) {
+
+/* BG */
+
+    .bg-orange {
+        background-color: #e67b13;
+    }
+      
+    .bg-gray {
+        background-color: #292d33;
+    }
+      
+    .bg-dark {
+        background-color: #292a33;
+    }
+      
+    .bg-dark-100 {
+        background-color: #333333;
+    }
+    
+    .bg-plane {
+        background-image: url(../img/hublot-avion.jpeg);
+    }
+      
+    .bg-contain {
+        background-size: contain;
+    }
+      
+    .bg-cover {
+        background-size: cover;
+    }
+      
+    .bg-no-repeat {
+        background-repeat: no-repeat;
+    }
+    /* TEXT */
+
+    .text-beige {
+        color: #f5c79b;
+    }
+      
+    .text-6xl {
+        font-size: 3.75rem;
+        line-height: 1;
+    }
+      
+    .text-base {
+        font-size: 1rem;
+    }
+
+
+    /* MARGIN */
+    .ml-28 {
+        margin-left: 7rem;
+    }
+      
+    .ml-48 {
+        margin-left: 12rem;
+    }
+      
+    .mr-20 {
+        margin-right: 5rem;
+    }
+      
+    .mt-24 {
+        margin-top: 5rem;
+    }
+      
+    .mt-32 {
+        margin-top: 7rem;
+    }
+      
+    .mt-76 {
+        margin-top: 19rem;
+    }
+      
+    .mb-20 {
+        margin-bottom: 4rem;
+    }
+
+    /* WIDTH */
+    .w-80 {
+        width: 21.25rem;
+    }
+    .w-full {
+        width: 100%;
+    }
+    /* PADDING */
+    .pl-16 {
+        padding-left: 4rem;
+    }
+      
+    .pb-20 {
+        padding-bottom: 5rem;
+    }
+      
+    .pr-8 {
+        padding-right: 2rem;
+    }
+      
+    .rounded-none {
+        border-radius: 0px;
+    }
+      
+    .p-0 {
+        padding: 0;
+    }
+      
+    .px-16 {
+        padding-left: 4rem; /* 28px */
+        padding-right: 4rem; /* 28px */
+    }
+      /* HEIGHT */
+    .h-full {
+        height: 100vh;
+    }
+    
+    .h-96 {
+        height: 25rem;
+    }
+    
+    .h-40 {
+        height: 10rem;
+    }
+      
+    .h-192 {
+        height: 53.438rem;
+    }
+
+    .h-108 {
+        height: 28rem;
+    }
+    
+    .z-1 {
+        z-index: 1;
+    }
+      
+    .z-2 {
+        z-index: 2;
+    }
+      
+    .z-3 {
+        z-index: 3;
+    }  
+
+    .object-cover {
+        object-fit: cover;
+    }
+
+    .overflow-hidden {
+        overflow: hidden;
+    }
+}
